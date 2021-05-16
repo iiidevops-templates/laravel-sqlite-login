@@ -1,5 +1,5 @@
 {
-  "name": "PHP Laravel SQLite - login",
+  "name": "PHP Laravel with SQLite - Login",
   "description": "Laravel 7-debian-10 (bitnami) <a class='el-link el-link--primary' href='https://github.com/iiidevops-templates/laravel-sqlite-login/blob/master/README.md' target='_blank'>登入(login)範本說明</a>",
   "arguments": [
   ]
