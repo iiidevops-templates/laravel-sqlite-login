@@ -36,7 +36,7 @@ stages:
       include:
       - master
       - develop
-- name: Checkmarx source code scan
+- name: Test--Checkmarx source code scan
   steps:
   - applyAppConfig:
       answers:
