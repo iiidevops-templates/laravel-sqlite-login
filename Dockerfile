@@ -1,4 +1,4 @@
-FROM dockerhub/bitnami/laravel:7.30.1
+FROM dockerhub/bitnami/laravel:8.6.11
 USER root
 RUN apt-get update && apt-get install -y nano git
 USER bitnami
