@@ -49,7 +49,7 @@ stages:
   when:
     branch:
       include:
-      - master
+      - skip
 - name: Deploy--Set Web environment variables
   iiidevops: deployed-environments
   steps:
